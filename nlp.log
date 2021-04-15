@@ -1,0 +1,49 @@
+2021-04-15 10:57:41,069 - _internal.py - _log - INFO - 113 -  * Restarting with stat
+2021-04-15 10:57:41,892 - _internal.py - _log - WARNING - 113 -  * Debugger is active!
+2021-04-15 10:57:41,899 - _internal.py - _log - INFO - 113 -  * Debugger PIN: 162-015-485
+2021-04-15 10:57:41,908 - _internal.py - _log - INFO - 113 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 10:57:47,776 - sentimentanalysis.py - sentiment_analysis - INFO - 138 - Entered sentiment analysis API
+2021-04-15 10:57:47,776 - sentimentanalysis.py - preprocessdata - INFO - 19 - Entered preprocessdata function
+2021-04-15 10:57:47,776 - sentimentanalysis.py - preprocessdata - INFO - 24 - normalizing
+2021-04-15 10:57:47,776 - sentimentanalysis.py - preprocessdata - INFO - 39 - tokenizing
+2021-04-15 10:57:47,784 - sentimentanalysis.py - preprocessdata - INFO - 55 - removing stopwords
+2021-04-15 10:57:47,787 - sentimentanalysis.py - preprocessdata - INFO - 70 - stemming
+2021-04-15 10:57:47,787 - sentimentanalysis.py - preprocessdata - INFO - 93 - lemmatization
+2021-04-15 10:57:49,326 - _internal.py - _log - INFO - 113 - 127.0.0.1 - - [15/Apr/2021 10:57:49] "[37mPOST / HTTP/1.1[0m" 200 -
+2021-04-15 10:58:13,667 - _internal.py - _log - INFO - 113 -  * Detected change in 'C:\\drive\\sem8\\projects\\nlp\\revanalysis\\sentimentanalysis.py', reloading
+2021-04-15 10:58:13,862 - _internal.py - _log - INFO - 113 -  * Restarting with stat
+2021-04-15 10:58:14,719 - _internal.py - _log - WARNING - 113 -  * Debugger is active!
+2021-04-15 10:58:14,729 - _internal.py - _log - INFO - 113 -  * Debugger PIN: 162-015-485
+2021-04-15 10:58:14,741 - _internal.py - _log - INFO - 113 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 10:58:18,969 - _internal.py - _log - INFO - 113 -  * Detected change in 'C:\\drive\\sem8\\projects\\nlp\\revanalysis\\sentimentanalysis.py', reloading
+2021-04-15 10:58:19,033 - _internal.py - _log - INFO - 113 -  * Restarting with stat
+2021-04-15 11:04:07,904 - _internal.py - _log - INFO - 113 -  * Restarting with stat
+2021-04-15 11:04:08,807 - _internal.py - _log - WARNING - 113 -  * Debugger is active!
+2021-04-15 11:04:08,815 - _internal.py - _log - INFO - 113 -  * Debugger PIN: 162-015-485
+2021-04-15 11:04:08,827 - _internal.py - _log - INFO - 113 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 11:04:11,028 - sentimentanalysis.py - sentiment_analysis - INFO - 148 - Entered sentiment analysis API
+2021-04-15 11:04:11,029 - sentimentanalysis.py - preprocessdata - INFO - 19 - Entered preprocessdata function
+2021-04-15 11:04:11,029 - sentimentanalysis.py - preprocessdata - INFO - 24 - normalizing
+2021-04-15 11:04:11,029 - sentimentanalysis.py - preprocessdata - INFO - 39 - tokenizing
+2021-04-15 11:04:11,038 - sentimentanalysis.py - preprocessdata - INFO - 55 - removing stopwords
+2021-04-15 11:04:11,040 - sentimentanalysis.py - preprocessdata - INFO - 70 - stemming
+2021-04-15 11:04:11,040 - sentimentanalysis.py - preprocessdata - INFO - 93 - lemmatization
+2021-04-15 11:04:12,738 - _internal.py - _log - INFO - 113 - 127.0.0.1 - - [15/Apr/2021 11:04:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2021-04-15 11:04:27,552 - _internal.py - _log - INFO - 113 -  * Detected change in 'C:\\drive\\sem8\\projects\\nlp\\revanalysis\\sentimentanalysis.py', reloading
+2021-04-15 11:04:27,756 - _internal.py - _log - INFO - 113 -  * Restarting with stat
+2021-04-15 11:04:28,600 - _internal.py - _log - WARNING - 113 -  * Debugger is active!
+2021-04-15 11:04:28,607 - _internal.py - _log - INFO - 113 -  * Debugger PIN: 162-015-485
+2021-04-15 11:04:28,617 - _internal.py - _log - INFO - 113 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 11:04:31,458 - _internal.py - _log - INFO - 113 -  * Restarting with stat
+2021-04-15 11:04:32,656 - _internal.py - _log - WARNING - 113 -  * Debugger is active!
+2021-04-15 11:04:32,668 - _internal.py - _log - INFO - 113 -  * Debugger PIN: 162-015-485
+2021-04-15 11:04:32,717 - _internal.py - _log - INFO - 113 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 11:04:32,843 - sentimentanalysis.py - sentiment_analysis - INFO - 148 - Entered sentiment analysis API
+2021-04-15 11:04:32,843 - sentimentanalysis.py - preprocessdata - INFO - 19 - Entered preprocessdata function
+2021-04-15 11:04:32,843 - sentimentanalysis.py - preprocessdata - INFO - 24 - normalizing
+2021-04-15 11:04:32,843 - sentimentanalysis.py - preprocessdata - INFO - 39 - tokenizing
+2021-04-15 11:04:32,858 - sentimentanalysis.py - preprocessdata - INFO - 55 - removing stopwords
+2021-04-15 11:04:32,860 - sentimentanalysis.py - preprocessdata - INFO - 70 - stemming
+2021-04-15 11:04:32,861 - sentimentanalysis.py - preprocessdata - INFO - 93 - lemmatization
+2021-04-15 11:04:35,020 - sentimentanalysis.py - classify_sentence - INFO - 122 - entered classify_sentence
+2021-04-15 11:04:35,021 - _internal.py - _log - INFO - 113 - 127.0.0.1 - - [15/Apr/2021 11:04:35] "[37mPOST / HTTP/1.1[0m" 200 -
