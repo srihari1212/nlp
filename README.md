@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Logging is included
 -------------------
-This API is completely logged in nlp.txt file
+This API is completely logged in nlp.log file
 
 
 Sample input
